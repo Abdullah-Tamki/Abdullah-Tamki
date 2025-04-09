@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Abdullah Al Tamki
+## 👋 Hi, I’m Abdullah
 
 I’m a passionate Computer Science graduate, with a growing skill set in **cloud engineering**, and **DevOps**.
 
